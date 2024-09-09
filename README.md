@@ -1,3 +1,8 @@
+<a href="https://ko-fi.com/mustafaaly7">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKohhe6zGdyl4TAOSb9gQWMARO-bjgSz1GEw&s" alt="MasterHead" style="width: 100%; max-width: 800px;"/>
+</a>
+
+
 <h1 align="center">Hi , I'm Muhammad Mustafa Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
