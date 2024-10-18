@@ -1,5 +1,5 @@
 <a href="https://ko-fi.com/mustafaaly7">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKohhe6zGdyl4TAOSb9gQWMARO-bjgSz1GEw&s" alt="MasterHead" style="width: 100%; max-width: 800px;"/>
+  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKohhe6zGdyl4TAOSb9gQWMARO-bjgSz1GEw&s](https://raw.githubusercontent.com/mustafaaly7/mustafaaly7/refs/heads/main/simplesocials%20onr%20ight.png)" alt="MasterHead" style="width: 100%; max-width: 800px;"/>
 </a>
 
 
