@@ -9,17 +9,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-- 🔭 I’m currently working on [Ecommerce Website on React JS](https://github.com/mustafaaly7/class06-EcommerceWeb)
+- 🔭 I’m Available to Work Any  ([Full Stack Projects Using Mern Stack  ])
 
-- 🌱 I’m currently learning **HTML , CSS , Javascript , React**
+- 🌱 I’m currently Working On **Mern Stack And AI **
 
-- 👯 I’m looking to collaborate on **Front end projects**
+- 👯 I’m looking to collaborate on **Both Front end & Backend projects**
 
-- 🤝 I’m looking for help with **React JS**
+- 🤝 I’m looking for help with **React JS /Node Js / Next Js /Three Js Etc**
 
-- My Pinterest Account : [https://www.pinterest.com/mustafaaly7/](https://www.pinterest.com/mustafaaly7/)
+- My Portfolio: mustafa-ali-portfolio.vercel.app
 
-- 💬 Ask me about **Pixel art , Designing ,HTML , CSS , Javascript , React**
+- 💬 Ask me about **Pixel art , Designing ,HTML , CSS , Javascript , React ,Node Js**
 
 - 📫 How to reach me **mustafaaaly27@gmail.com**
 
