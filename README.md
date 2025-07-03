@@ -85,10 +85,16 @@
 
 ### 📊 GitHub Stats
 
+<h3 align="center">📊 GitHub Stats</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafaaly7&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafaaly7&show_icons=true&locale=en&layout=compact" alt="mustafaaly7" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafaaly7&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafaaly7&show_icons=true&locale=en" alt="mustafaaly7" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaaly7&" alt="mustafaaly7" /></p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaaly7&" alt="GitHub Streak" />
+</p>
