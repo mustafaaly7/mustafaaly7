@@ -33,8 +33,8 @@
 <a href="https://fb.com/mustafa.aly.92351?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mustafa.aly.92351?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/pixel.tocode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pixel.tocode/" height="30" width="40" /></a>
 <a href="https://www.behance.net/mohammadali353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohammadali353" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@pxvcstudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@pxvcstudio" height="30" width="40" /></a>
-<a href="https://discord.gg/mustafay#4700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mustafay#4700" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@pxvcStudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@pxvcstudio" height="30" width="40" /></a>
+<a href="https://discord.com/users/711908736666566687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mustafay#4700" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
