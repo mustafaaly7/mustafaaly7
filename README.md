@@ -28,7 +28,7 @@
 - 🤝 I’m looking for help with **⚙️ Understanding Python-based AI workflows alongside JS/TS environments**
 - 💬 Ask me about **🧱 Full-Stack Development with MERN, Next.js, Nest.js, PostgreSQL & Pixel Art**
 - 📫 How to reach me: **mustafaaaly27@gmail.com**
-- 🌐 My Portfolio: [mustafa-ali-portfolio.vercel.app](https://mustafa-ali-portfolio.vercel.app/)
+- 🌐 My Portfolio: [https://www.mustafaaly.site/](https://www.mustafaaly.site/)
 - 📄 Check My Resume: [Dropbox Link](https://www.dropbox.com/scl/fi/2v3gtsifu9vpl2urrvqgq/mustafa-ali-resume.pdf?rlkey=ojz73ysr2sygc7n0gj2mmtouj&st=3so1ufi0&dl=0)
 
 ---
