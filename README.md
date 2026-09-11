@@ -22,7 +22,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Real-time Chat Application built with MERN](https://github.com/mustafaaly7/Chat-App)
+- 🔭 I’m currently working on [Soundzwavez](https://soundswaves.vercel.app/)
 - 🌱 I’m currently learning **🤖 Artificial Intelligence, NLP, and integrating LLMs into real-world apps**
 - 👯 I’m looking to collaborate on **🧠 Full-stack projects involving automation, NLP, and AI integration**
 - 🤝 I’m looking for help with **⚙️ Understanding Python-based AI workflows alongside JS/TS environments**
