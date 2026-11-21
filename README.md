@@ -71,15 +71,6 @@
   <a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" /></a>
 </p>
 
----
-
-### ☕ Support Me
-
-<p align="center">
-  <a href="https://ko-fi.com/mustafaaly7">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mustafaaly7" />
-  </a>
-</p>
 
 ---
 
